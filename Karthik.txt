@@ -1,2 +1,2 @@
 Original content
-Content from master
+Line from bugfix
